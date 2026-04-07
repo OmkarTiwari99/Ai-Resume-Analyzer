@@ -40,7 +40,7 @@ export default function Footer() {
                             <h4 className="text-lg font-semibold text-gray-800 mb-4">Connect</h4>
                             <div className="flex space-x-4">
                                 <a
-                                    href="https://www.linkedin.com/in/aditya-singh-sengar-315971275"
+                                    href="www.linkedin.com/in/omkar-tiwari"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-gray-700 hover:text-blue-600 transition-colors"
@@ -62,7 +62,7 @@ export default function Footer() {
                                     </svg>
                                 </a>
                                 <a
-                                    href="https://github.com/sengaraditya"
+                                    href="https://github.com/OmkarTiwari99"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-gray-700 hover:text-blue-600 transition-colors"
@@ -79,12 +79,12 @@ export default function Footer() {
 
                 <div className="border-t border-white/30 mt-8 pt-6 flex flex-col items-center space-y-4">
                     <p className="text-sm text-gray-600">
-                        © 2025 Resumind. Made with ❤️ by Aditya Singh Sengar.
+                        © 2025 Resumind. Made with ❤️ by Omkar Tiwari.
                     </p>
                     <div className="flex space-x-6 text-sm">
                         <a href="#" className="text-gray-600 hover:text-blue-600 transition-colors">Privacy Policy</a>
                         <a href="#" className="text-gray-600 hover:text-blue-600 transition-colors">Terms of Service</a>
-                        <a href="adityasengarjune30@gmail.com" className="text-gray-600 hover:text-blue-600 transition-colors">Contact</a>
+                        <a href="tiwariomkar217@gmail.com" className="text-gray-600 hover:text-blue-600 transition-colors">Contact</a>
                     </div>
                 </div>
             </div>
