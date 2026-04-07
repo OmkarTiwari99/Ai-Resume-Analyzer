@@ -40,7 +40,7 @@ export default function Footer() {
                             <h4 className="text-lg font-semibold text-gray-800 mb-4">Connect</h4>
                             <div className="flex space-x-4">
                                 <a
-                                    href="www.linkedin.com/in/omkar-tiwari"
+                                    href="https://www.linkedin.com/in/omkar-tiwari/"
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     className="text-gray-700 hover:text-blue-600 transition-colors"
