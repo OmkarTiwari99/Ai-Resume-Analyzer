@@ -146,4 +146,4 @@ If you encounter any issues or have questions, please:
 
 ---
 
-Made with ❤️ by Aditya Singh Sengar. 
+Made with ❤️ by Omkar Tiwari. 
